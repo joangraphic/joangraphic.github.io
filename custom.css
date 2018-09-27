@@ -1,0 +1,36 @@
+hr.double {
+    border-top: 3px double;
+}
+
+hr.single {
+    border-top: 1px solid;
+}
+
+li {
+    margin: 0 0 6px 0;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+body {
+    /* Margin bottom by footer height */
+    margin-bottom: 60px;
+}
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    background-color: #f5f5f5;
+}
+
+.product .img-responsive {
+    margin: 0 auto;
+}
+
+.top-buffer {margin-top:18px;}
+
+
