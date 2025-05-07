@@ -169,3 +169,14 @@ span.highlight {
   color: var(--btnFontColor);
   background-color: var(--btnBg);
 }
+
+ul {
+  font-family: helvetica;
+}
+li {
+  list-style: circle;
+}
+
+.list {
+  list-style: square;
+}
